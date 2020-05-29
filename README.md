@@ -1,4 +1,4 @@
-# Mac_Battery_Notification
+# Mac Battery Notification
 
 Receive notifications when bluetooth keyboard and mouse batteries are empty - the current threshold is currently set at 10%
 
